@@ -11,6 +11,9 @@ Accede al proyecto aquí: [SQL Reto - AlumniONE](https://github.com/correoCappel
 
 Este reto está diseñado para evaluar tus conocimientos en SQL mediante una serie de ejercicios que requieren el uso de CTEs y procedimientos, entre otras funcionalidades avanzadas de SQL. Estas herramientas te permitirán escribir consultas más legibles y organizadas, especialmente al enfrentar consultas complejas.
 
+> el archivo productos.csv se utilizo pata cargar los datos de prueba. No es necesario para los ejercicios. Se cargó via el MySQL Workbench.
+>el archivo script1.sql contiene scripts auxiliares . No es necesario para el entendimiento de los ejercicios.
+
 ## Uso de CTE y Procedimientos en el Proyecto
 
 ### Ejemplo de CTE: Clasificación de Clientes
