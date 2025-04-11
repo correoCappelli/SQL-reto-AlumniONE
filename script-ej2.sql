@@ -42,7 +42,7 @@ Indica cuál de las opciones garantiza que el resultado final no contenga duplic
 
 /*
 
-La respuesta correcta es alter
+La respuesta correcta es A
 
 UNION no considera duplicados entre las dos tablas
 
