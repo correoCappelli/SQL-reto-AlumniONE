@@ -40,7 +40,7 @@ Para solucionar el problema de conteo de pedidos usando procedimientos:
 
 ```sql
 DELIMITER $$
-CREATE PROCEDURE FilterOrdersFor2024()
+CREATE PROCEDURE FiltrarOrdenesPor2024()
 BEGIN
     DECLARE fin INT DEFAULT 0;
     DECLARE id INT;
